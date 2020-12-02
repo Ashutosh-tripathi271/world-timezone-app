@@ -37,8 +37,7 @@
 
 
 				<configuration>
-					<businessGroup>Apisero</businessGroup>
-					<region>us-e2</region>
+
 					<deploymentType>cloudhub</deploymentType>
 					<uri>https://anypoint.mulesoft.com</uri>
 					<muleVersion>4.3.0</muleVersion>
@@ -46,6 +45,7 @@
 					<password>Hminmi21@</password>
 					<applicationName>worldtimezone-service</applicationName>
 					<enironment>Sandbox</enironment>
+					<region>us-e2</region>
 					<workers>1</workers>
 					<workerType>Micro</workerType>
 					<objectStoreV2>true</objectStoreV2>
