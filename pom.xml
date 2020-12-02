@@ -37,7 +37,6 @@
 
 
 				<configuration>
-
 					<deploymentType>cloudhub</deploymentType>
 					<uri>https://anypoint.mulesoft.com</uri>
 					<muleVersion>4.3.0</muleVersion>
@@ -52,6 +51,8 @@
 					<properties>
 						<key>value</key>
 					</properties>
+
+
 				</configuration>
 				<executions>
 					<execution>
