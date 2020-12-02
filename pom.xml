@@ -32,11 +32,13 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-								<version>${mule.maven.plugin.version}</version>
+				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
-				
-				
+
+
 				<configuration>
+					<businessGroup>Apisero</businessGroup>
+					<region>us-e2</region>
 					<deploymentType>cloudhub</deploymentType>
 					<uri>https://anypoint.mulesoft.com</uri>
 					<muleVersion>4.3.0</muleVersion>
