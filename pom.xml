@@ -44,7 +44,6 @@
 					<password>Hminmi21@</password>
 					<applicationName>worldtimezone-service</applicationName>
 					<enironment>Sandbox</enironment>
-					<region>us-e2</region>
 					<workers>1</workers>
 					<workerType>Micro</workerType>
 					<objectStoreV2>true</objectStoreV2>
